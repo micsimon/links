@@ -1,5 +1,3 @@
-# links
-
 ## Common
 Package-Manager for Windows - https://chocolatey.org/
 
