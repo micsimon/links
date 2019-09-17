@@ -9,3 +9,6 @@ Pattern - https://www.philipphauer.de/study/se/design-pattern/abstract-factory.p
 
 ## Git
 git secret scan - https://github.com/awslabs/git-secrets#targetText=Description,then%20the%20commit%20is%20rejected.
+
+## Docker
+distroless Arch-Images - https://gitlab.com/dockerfiles-dl/base/blob/master/Dockerfile
