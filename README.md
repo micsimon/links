@@ -12,3 +12,7 @@ git secret scan - https://github.com/awslabs/git-secrets#targetText=Description,
 
 ## Docker
 distroless Arch-Images - https://gitlab.com/dockerfiles-dl/base/blob/master/Dockerfile
+
+## Code-Review
+awesome code review - https://github.com/joho/awesome-code-review
+Google's Engineering Practices documentation - https://google.github.io/eng-practices/review/reviewer/
