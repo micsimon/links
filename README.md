@@ -13,6 +13,7 @@ git secret scan - https://github.com/awslabs/git-secrets#targetText=Description,
 ## Docker
 distroless Arch-Images - https://gitlab.com/dockerfiles-dl/base/blob/master/Dockerfile
 health-check - https://effective-docker.github.io/docker-healthchecks/
+kubernetes - https://jaxenter.de/kubernetes/kubernetes-imageproblem-87894
 
 ## Code-Review
 awesome code review - https://github.com/joho/awesome-code-review
