@@ -1,5 +1,6 @@
 ## Common
 * Package-Manager for Windows - https://chocolatey.org/
+* https://12factor.net/de/
 
 ## IDE:
 * Integrated Scratchpad for JavaScript - https://quokkajs.com/
@@ -18,3 +19,4 @@
 ## Code-Review
 * awesome code review - https://github.com/joho/awesome-code-review
 * Google's Engineering Practices documentation - https://google.github.io/eng-practices/review/reviewer/
+
