@@ -10,6 +10,7 @@
 
 ## Git
 * git secret scan - https://github.com/awslabs/git-secrets#targetText=Description,then%20the%20commit%20is%20rejected.
+* keep a changelog - https://keepachangelog.com/de/1.0.0/
 
 ## Docker
 * distroless Arch-Images - https://gitlab.com/dockerfiles-dl/base/blob/master/Dockerfile
