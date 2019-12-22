@@ -8,7 +8,7 @@
 ## Software-Engineering
 * Pattern - https://www.philipphauer.de/study/se/design-pattern/abstract-factory.php
 * DDD
-** LeasingNinja DDD example - https://leasingninja.github.io/
+  * LeasingNinja DDD example - https://leasingninja.github.io/
 
 ## Git
 * git secret scan - https://github.com/awslabs/git-secrets#targetText=Description,then%20the%20commit%20is%20rejected.
