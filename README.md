@@ -25,4 +25,6 @@
 
 ## Frontend-Test
 * Puppeteer (headless environment) - https://github.com/puppeteer/puppeteer
+* device-tests
+ * browserstack, sorucelabs und amazon device farm
 
