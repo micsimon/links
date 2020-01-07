@@ -29,4 +29,8 @@
 * Puppeteer (headless environment) - https://github.com/puppeteer/puppeteer
 * device-tests
   * browserstack, sorucelabs und amazon device farm
+  
+## Shell
+* iterm2 config - https://gist.github.com/kevin-smets/8568070
+
 
