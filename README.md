@@ -33,4 +33,7 @@
 ## Shell
 * iterm2 config - https://gist.github.com/kevin-smets/8568070
 
+## Test
+* selenium ide - https://selenium.dev/selenium-ide/
+
 
