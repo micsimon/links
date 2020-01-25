@@ -35,5 +35,7 @@
 
 ## Test
 * selenium ide - https://selenium.dev/selenium-ide/
+* puppeteer - https://github.com/puppeteer/puppeteer
+* testcontainers - https://www.testcontainers.org/ddd-refr
 
 
